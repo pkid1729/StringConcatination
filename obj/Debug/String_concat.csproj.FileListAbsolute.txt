@@ -1,0 +1,6 @@
+F:\C# Practice\1\String_concat\String_concat\bin\Debug\String_concat.exe.config
+F:\C# Practice\1\String_concat\String_concat\bin\Debug\String_concat.exe
+F:\C# Practice\1\String_concat\String_concat\bin\Debug\String_concat.pdb
+F:\C# Practice\1\String_concat\String_concat\obj\Debug\String_concat.csprojResolveAssemblyReference.cache
+F:\C# Practice\1\String_concat\String_concat\obj\Debug\String_concat.exe
+F:\C# Practice\1\String_concat\String_concat\obj\Debug\String_concat.pdb
